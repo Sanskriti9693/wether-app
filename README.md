@@ -18,4 +18,5 @@ A modern weather app built using JavaScript and OpenWeatherMap API.
 - API (OpenWeatherMap)
 
 # Live Demo
+[Click here to view live project]
 sansu-wether-app.netlify.app
